@@ -1,6 +1,6 @@
 ---
 date_added: 2020-01-06
-title: CE Smart Home CFW500D-3W 3 Way
+title: CE Smart Home CWF500D-3W 3 Way
 model: ZZH-CFW500D
 image: https://www.cesmarthome.com/assets/img/product_images/CFW500D-3W/CFW500D-3W_1.png
 template: '{"NAME":"CE-WF500D-3W","GPIO":[0,0,0,0,0,0,0,0,0,108,0,107,0],"FLAG":0,"BASE":54}' 
